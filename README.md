@@ -1,8 +1,8 @@
-## Posts App
+# Posts App
 
     This is a basic web app for posts creation.
 
-# Features
+## Features
 - View all your posts created by you.
 - You can also update or edit them.
 - You can also like and unlike a post.
@@ -14,7 +14,7 @@
 - EJS for server-side rendering.
 
 
-# packages used
+## packages used
 - **express**       : for node_modules and express framework
 - **nodemon**       : for autorun on changes occur
 - **mongoose**      : for Database connectivity
@@ -23,7 +23,7 @@
 - **cookie-parser** : for performing operations on cookie
 - **jwt**           :for token creation (user is present or not checking through email verification,verify users)
 
-# steps done in terminal
+## steps done in terminal
 - open terminal
 - npm init -y (or) node init
 - npm i express nodemon mongoose ejs bcrypt cookie-parser jwt
